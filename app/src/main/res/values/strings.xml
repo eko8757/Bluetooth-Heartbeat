@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Detak Denyut Nadi</string>
+    <string name="text_two">You must be paired with your device to see it in the list. Pull to refresh the list.</string>
+    <string name="select_device">Select a device.</string>
+    <string name="not_found">Device not found!</string>
+</resources>
